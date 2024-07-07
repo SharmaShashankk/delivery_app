@@ -175,7 +175,7 @@ class _CardScreenState extends State<CardScreen> {
                           borderRadius: BorderRadius.circular(10)),
                       minimumSize: Size(400, 50)),
                   child: Text(
-                    'USE THIS CARD',
+                    'USE THIS CARD ONLY',
                     style: TextStyle(color: Colors.white),
                   ))
             ],
