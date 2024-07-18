@@ -33,6 +33,7 @@ class _SplashScreenState extends State<SplashScreen> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Image.asset('assets/images/app_logo.png'),
+              Text('Learning how to use GitHub'),
               // Spacer(),
               // Row(
               //   mainAxisAlignment: MainAxisAlignment.center,
